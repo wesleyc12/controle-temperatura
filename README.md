@@ -12,7 +12,7 @@ Quando atinge ou ultrapassa o setpoint, o aquecedor é desligado.
 
 A temperatura ambiente é simulada, aumentando ou diminuindo de forma gradual a cada ciclo de execução.
 
-## Simplificações do Modelo
+## O que foi simplificado
 - Modelo térmico simplificado.
 - Variações de temperatura fixas por ciclo.
 - Sensor de temperatura simulado.
